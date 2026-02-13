@@ -1,16 +1,14 @@
-## Hi there 👋
+# Merhaba, Ben Buğra! 👋
 
-<!--
-**bugrakkilinc/bugrakkilinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selçuk Üniversitesi'nde 1. sınıf Bilgisayar Mühendisliği öğrencisiyim. Yazılım dünyasına Python ile adım attım ve şu an Linux sistemlerde iş akışlarını kolaylaştıracak otomasyon araçları geliştiriyorum.
 
-Here are some ideas to get you started:
+### 🛠️ Nelerle Uğraşıyorum?
+* **Diller:** Python (Favorim!), C
+* **Sistem:** Arch tabanlı Linux dağıtımları, Hyprland ve Terminal tabanlı araçlar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Şu An Ne Yapıyorum?
+- 🐍 Python ile programlama mantığımı geliştiriyorum.
+- C öğreniyorum.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
