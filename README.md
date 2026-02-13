@@ -1,6 +1,6 @@
 # Merhaba, Ben Buğra! 👋
 
-Selçuk Üniversitesi'nde 1. sınıf Bilgisayar Mühendisliği öğrencisiyim. Yazılım dünyasına Python ile adım attım ve şu an Linux sistemlerde iş akışlarını kolaylaştıracak otomasyon araçları geliştiriyorum.
+Selçuk Üniversitesi'nde 1. sınıf Bilgisayar Mühendisliği öğrencisiyim.
 
 ### 🛠️ Nelerle Uğraşıyorum?
 * **Diller:** Python (Favorim!), C
@@ -9,6 +9,7 @@ Selçuk Üniversitesi'nde 1. sınıf Bilgisayar Mühendisliği öğrencisiyim. Y
 ### 🚀 Şu An Ne Yapıyorum?
 - 🐍 Python ile programlama mantığımı geliştiriyorum.
 - C öğreniyorum.
+- 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
